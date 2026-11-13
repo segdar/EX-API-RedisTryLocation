@@ -1,0 +1,6 @@
+@EX_API_RedisTryLocation_HostAddress = http://localhost:5144
+
+GET {{EX_API_RedisTryLocation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
